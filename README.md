@@ -1,3 +1,3 @@
 # personal website
 
-https://relativerez.github.io/Echal.github.io/
+https://relativerez.github.io/Echal/
